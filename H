@@ -1,0 +1,7 @@
+эхо "# Frilans" >> README.md 
+git init
+git add README.md 
+git commit -m "первая фиксация"
+ветка git -M main
+git remote add origin https://github.com/Anton22345/Frilans.git
+git push -u origin main
